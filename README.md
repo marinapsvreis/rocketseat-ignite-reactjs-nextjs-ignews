@@ -22,3 +22,6 @@
 
 #### Instalando o react icons:
 ```npm add react-icons```
+
+#### Instalando o stripe:
+```npm add stripe```
