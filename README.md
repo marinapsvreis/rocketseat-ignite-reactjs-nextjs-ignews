@@ -40,3 +40,18 @@ Obs: Tive que dar um downgrade na versão do next-auth para 3.xx porque não est
 
 #### Instalando o stripe-js:
 ``` npm add @stripe/stripe-js ```
+
+### Instalando scoop (Windows PowerShell):
+```Set-ExecutionPolicy RemoteSigned -Scope CurrentUser```
+```irm get.scoop.sh | iex```
+
+#### Instalando o stripe-cli via o scoop no terminal:
+```scoop bucket add stripe https://github.com/stripe/scoop-stripe-cli.git```
+```scoop install stripe``` 
+
+Obs: Depois executar o comando "stripe login" e autorizar no navegador para funcionar na nossa maquina durante 90 dias.
+
+#### Rodando o stripe-cli:
+``` stripe listen --forward-to http://localhost:3000/api/webhooks```
+
+OBS: Para testar o stripe basta por o cartao: 4242 4242 4242 4242 e os demais dados aleatórios.
