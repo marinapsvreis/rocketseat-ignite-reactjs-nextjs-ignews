@@ -34,3 +34,9 @@ Obs: Tive que dar um downgrade na versão do next-auth para 3.xx porque não est
 
 #### Instalando o FaunaDB:
 ``` npm add faunadb ```
+
+#### Instalando axios:
+``` npm add axios ```
+
+#### Instalando o stripe-js:
+``` npm add @stripe/stripe-js ```
