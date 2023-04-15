@@ -31,3 +31,6 @@
 ```npm add @types/next-auth -D```
 
 Obs: Tive que dar um downgrade na versão do next-auth para 3.xx porque não estava reconhecendo a forma como o diego escreve o nextauth para o github e usando o atualizado não encontrei como definir o escopo da maneira correta.
+
+#### Instalando o FaunaDB:
+``` npm add faunadb ```
