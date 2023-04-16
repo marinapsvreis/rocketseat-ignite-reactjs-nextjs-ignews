@@ -1,0 +1,28 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "invented"
+  },
+  "title": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "heading1",
+        "content": {
+          "text": "Affect"
+        }
+      }
+    ]
+  },
+  "content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Aute elit nisi sit irure sunt magna proident dolore nostrud nostrud amet esse nostrud cupidatat. Nostrud duis cillum pariatur laboris nostrud ea voluptate eiusmod consequat ipsum nulla. Aliquip ipsum voluptate incididunt."
+        }
+      }
+    ]
+  }
+}

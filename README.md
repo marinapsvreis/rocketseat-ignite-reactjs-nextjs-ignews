@@ -55,3 +55,9 @@ Obs: Depois executar o comando "stripe login" e autorizar no navegador para func
 ``` stripe listen --forward-to http://localhost:3000/api/webhooks```
 
 OBS: Para testar o stripe basta por o cartao: 4242 4242 4242 4242 e os demais dados aleatórios.
+
+#### Instalando o Prismic CMS Slice Machine:
+```npx @slicemachine/init --repository ignewsmah```
+```npm run slicemachine```
+
+Obs: Isso foi necessário para poder criar o custom type.
