@@ -66,3 +66,7 @@ Obs: Isso foi necessário para poder criar o custom type.
 ```npm add @prismicio/client@^4```
 
 OBS: Optei por instalar a versão da epoca do tutorial por conta de várias incompatibilidades.
+
+#### Instalando a Prismic DOM para facilitar a formatação dos results:
+```npm add prismic-dom```
+```npm add @types/prismic-dom -D```
