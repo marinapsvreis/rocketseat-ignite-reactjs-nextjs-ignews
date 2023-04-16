@@ -1,3 +1,11 @@
+Nesse modulo aprendemos como criar uma aplicação front-end serverless, utilizando os recursos de banco de dados do FaunaDB, api de pagamentos do Stripe e sistema de gerenciamento de conteúdo Prismic CMS. O resultado final seria um blog com posts que para serem consumidos em sua totalidade, o usuário deveria estar logado e com uma assinatura ativa. Seguem abaixo algumas telas do sistema:
+
+![Ignews - Home](https://i.imgur.com/S8H7szA.png)
+![Ignews - Posts](https://i.imgur.com/gdjLDI0.png)
+![Ignews - PostPreview](https://i.imgur.com/qnjcSCF.png)
+![Ignews - Post](https://i.imgur.com/bSvRrUd.png)
+![Ignews - Checkout](https://i.imgur.com/3oJvsa0.png)
+
 #### Comando que roda o projeto
 ```npm run rev```
 
