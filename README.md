@@ -61,3 +61,8 @@ OBS: Para testar o stripe basta por o cartao: 4242 4242 4242 4242 e os demais da
 ```npm run slicemachine```
 
 Obs: Isso foi necessário para poder criar o custom type.
+
+#### Instalando a API do Prismic:
+```npm add @prismicio/client@^4```
+
+OBS: Optei por instalar a versão da epoca do tutorial por conta de várias incompatibilidades.
